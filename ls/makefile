@@ -1,8 +1,3 @@
-#
-#  @author : Maxime Girard 
-#  @CodePermanent : GIRM30058500
-#
-
 # variables
 
 cc=gcc
